@@ -9,11 +9,11 @@ const maxActionADay = 3;
 //economy
 var currentMoney = 0;
 var health;
-var eatPrice = 320;
-var workIncome = 140;
+var eatPrice = 304;
+var workIncome = 179;
 
-var loseHealth = 16;
-var gainHealth = 8;
+var loseHealth = 17;
+var gainHealth = 11;
 //actions
 var dayElapsed = 0;
 var actionCount = 0;
