@@ -149,7 +149,7 @@ function updateUI()
    {
       
        totalDed++;
-       dedCount.textContent = "Total Ded: " + totalDed + " | Total Survived:" + tS;
+       dedCount.textContent = "Total Ded: " + totalDed + " | Total Survived:" + tS + "Days";
        localStorage.setItem("DedCount",totalDed);
        localStorage.setItem("tS", tS);
        ded.style.display = "flex";
