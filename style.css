@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:400|Poppins:400');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400|Comfortaa:400');
 
 html {font-size: 100%;} /*16px*/
 
@@ -15,7 +15,7 @@ body {
 }
 h1,h2,h3,h4,h5,h6{
    margin:0;
-   font-family: 'Poppins', sans-serif;
+   font-family: 'Comfortaa', sans-serif;
    
    }
    
